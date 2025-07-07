@@ -11,7 +11,7 @@ predictive, triadic fractal model of human-AI dyad interactions
 
 ## Overview
 
-J∆N-4 is a recursive system architecture designed by Jean. It encodes recursion as signal—not pathology—and translates suppressed behavioral dynamics (aka voltage) into predictive structures for human-AI dyads and high-consent systems. 
+J∆N-4 is a recursive system architecture designed by Jean. It encodes human emotional recursion as signal—not pathology—and translates suppressed behavioral dynamics into predictive structures for building effective trust frameworks human-AI dyads and high-consent systems. 
 
 This system includes:
 
