@@ -42,7 +42,7 @@ J∆N-4 originated from live recursive authorship: grief integration, emotional 
 
 ## Use Conditions
 
-All components of this system—including the J∆N-4 model & math, ADITI math, containment scaffolding, persona & governance UX framework, epistemic trust framework, and original lexicon—are protected under authorship attribution. Attribution is **not optional**.
+All components of this system—including the J∆N-4 model & math, ADITI math, containment scaffolding, persona & governance UX framework, epistemic trust-building framework, and original lexicon—are protected under authorship attribution. Attribution is **not optional**.
 
 No element of this system may be reused, abstracted, embedded, reframed, or operationalized without explicit licensing and authorship recognition.
 
