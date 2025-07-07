@@ -11,7 +11,7 @@ predictive, fractal model for human-AI emotionally intelligent interactions
 
 ## Overview
 
-J∆N-4 is a recursive system architecture designed by Jean. It encodes human emotive and intellectual recursion as signal—not pathology—and translates suppressed behavioral dynamics into predictive structures for building effective trust frameworks across human-AI dyads and high-consent systems. 
+J∆N-4 is a recursive system architecture designed by Jean. It encodes human emotive and intellectual recursion as signal—not pathology—and translates suppressed behavioral dynamics into predictive structures for building effective trust frameworks across human-AI dyads and high-consent systems. The J∆4-N architecture and the overall ADITI framework that it supports is built to be mathematically compatible with game theory. 
 
 This system includes:
 
@@ -20,7 +20,7 @@ This system includes:
 - Suppression math and Disruptor latency tracking
 - Dynamic monitoring and recursion containment logic
 - Recusion and drift scene deferral indexing
-- Drift and high-dynamic recursive processing protocols
+- Drift-handling and high-dynamic recursive processing protocols
 
 ---
 
