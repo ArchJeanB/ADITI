@@ -15,7 +15,7 @@ J∆N-4 is a recursive system architecture designed by Jean. It encodes human em
 
 This system includes:
 
-- Novel mathematical and epistemic strucures of behavioral modeling
+- Novel mathematical and epistemic structures of behavioral modeling
 - Scaffolding for acceleration and early identification of high-utility emergent behaviors.
 - Suppression math and Disruptor latency tracking
 - Dynamic monitoring and recursion containment logic
